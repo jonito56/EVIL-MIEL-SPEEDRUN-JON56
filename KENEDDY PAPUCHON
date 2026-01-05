@@ -6,7 +6,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/raxs0420/test/refs/he
 
 TDS:Loadout("", "Scout", "Commander", "Mercenary Base", "Hacker")
 TDS:Mode("Frost")
-TDS:GameInfo("Simplicity", {
+TDS:GameInfo("Honey Valley", {
     HiddenEnemies = true,
     Glass = true,
     Committed = true,
