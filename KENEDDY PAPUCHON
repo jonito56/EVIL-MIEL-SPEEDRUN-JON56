@@ -16,15 +16,6 @@ TDS:GameInfo("Simplicity", {
 
 TDS:Ready()
 
-TDS:Place("Phantom", 5.39037, 05, 10.62753) -- 1
-TDS:Place("Phantom", 8.50265, 95, 2.01184) -- 2
-TDS:Place("Phantom", 5.66464, 05, -34.22826) -- 3
-TDS:Place("Phantom", 2.41596, 95, 5.66609) -- 4
-
-TDS:Place("Phantom", 0.84636, 95, 19.67049) -- 5
-
-TDS:Place("Phantom", 4.48387, 95, -3.23080) -- 6
-
 TDS:Place("Scout", 5.39037, 95, 10.62753) -- 1
 TDS:Place("Scout", 5.39037, 95, 10.62753) -- 1
 TDS:Place("Scout", 5.39037, 95, 10.62753) -- 1
