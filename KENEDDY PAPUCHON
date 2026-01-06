@@ -6,7 +6,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/raxs0420/test/refs/he
 
 TDS:Loadout("", "Scout", "Commander", "Mercenary Base", "Hacker")
 TDS:Mode("Frost")
-TDS:GameInfo("Honey Valley", {
+TDS:GameInfo("Midnight Issue", {
     HiddenEnemies = true,
     Glass = true,
     Committed = true,
@@ -14,25 +14,25 @@ TDS:GameInfo("Honey Valley", {
     ExplodingEnemies = true
 })
 
-TDS:Place("Scout", 4.17737, 95, -1.14073) -- 1
-TDS:Place("Scout", 4.17737, 95, -1.14073) -- 1
-TDS:Place("Scout", 4.17737, 95, -1.14073) -- 1
+TDS:Place("Scout", 15.84596, 95, -8.56942) -- 1
+TDS:Place("Scout", 15.84596, 95, -8.56942) -- 1
+TDS:Place("Scout", 15.84596, 95, -8.56942) -- 1
 TDS:Upgrade(1)
 TDS:Upgrade(2)
 TDS:Upgrade(3)
 TDS:Upgrade(1)
 TDS:Upgrade(2)
 TDS:Upgrade(3)
-TDS:Place("Scout", 4.17737, 95, -1.14073) -- 1
+TDS:Place("Scout", 15.84596, 95, -8.56942) -- 1
 TDS:Upgrade(4)
 TDS:Upgrade(4)
-TDS:Place("Scout", 4.17737, 95, -1.14073) -- 1
+TDS:Place("Scout", 15.84596, 95, -8.56942) -- 1
 TDS:Upgrade(5)
 TDS:Upgrade(5)
-TDS:Place("Scout", 7.12393, 95, 10.12285) -- 1
+TDS:Place("Scout", 15.84596, 95, -8.56942) -- 1
 TDS:Upgrade(6)
 TDS:Upgrade(6)
-TDS:Place("Scout", 7.34815, 95, 10.12029) -- 1
+TDS:Place("Scout", 15.84596, 95, -8.56942) -- 1
 TDS:Upgrade(7)
 TDS:Upgrade(7)
 TDS:Place("Scout", 7.34815, 95, 10.12029) -- 1
