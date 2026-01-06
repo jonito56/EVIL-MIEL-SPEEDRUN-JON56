@@ -16,37 +16,37 @@ TDS:GameInfo("Honey Valley", {
 
 TDS:Ready()
 
-TDS:Place("Scout", 5.20727, 95, 10.04594) -- 1
-TDS:Place("Scout", 5.20727, 95, 10.04594) -- 1
-TDS:Place("Scout", 5.20727, 95, 10.04594) -- 1
+TDS:Place("Scout", 7.34815, 95, 10.12029) -- 1
+TDS:Place("Scout", 7.34815, 95, 10.12029) -- 1
+TDS:Place("Scout", 7.34815, 95, 10.12029) -- 1
 TDS:Upgrade(1)
 TDS:Upgrade(2)
 TDS:Upgrade(3)
 TDS:Upgrade(1)
 TDS:Upgrade(2)
 TDS:Upgrade(3)
-TDS:Place("Scout", 5.20727, 95, 10.04594) -- 1
+TDS:Place("Scout", 7.34815, 95, 10.12029) -- 1
 TDS:Upgrade(4)
 TDS:Upgrade(4)
-TDS:Place("Scout", 5.20727, 95, 10.04594) -- 1
+TDS:Place("Scout", 7.34815, 95, 10.12029) -- 1
 TDS:Upgrade(5)
 TDS:Upgrade(5)
-TDS:Place("Scout", 5.20727, 95, 10.04594) -- 1
+TDS:Place("Scout", 7.34815, 95, 10.12029) -- 1
 TDS:Upgrade(6)
 TDS:Upgrade(6)
-TDS:Place("Scout", 5.20727, 95, 10.04594) -- 1
+TDS:Place("Scout", 7.34815, 95, 10.12029) -- 1
 TDS:Upgrade(7)
 TDS:Upgrade(7)
-TDS:Place("Scout", 5.20727, 95, 10.04594) -- 1
+TDS:Place("Scout", 7.34815, 95, 10.12029) -- 1
 TDS:Upgrade(8)
 TDS:Upgrade(8)
-TDS:Place("Scout", 5.20727, 95, 10.04594) -- 1
+TDS:Place("Scout", 7.34815, 95, 10.12029) -- 1
 TDS:Upgrade(9)
 TDS:Upgrade(9)
-TDS:Place("Scout", 5.20727, 95, 10.04594) -- 1
+TDS:Place("Scout", 7.34815, 95, 10.12029) -- 1
 TDS:Upgrade(10)
 TDS:Upgrade(10)
-TDS:Place("Hacker", 5.39037, 95, 10.62753) -- 2
+TDS:Place("Hacker", 7.34815, 95, 10.12029) -- 2
 TDS:Upgrade(11)
 TDS:Upgrade(11)
 TDS:Place("Commander", 2.41596, 95, 5.66609) -- 1
